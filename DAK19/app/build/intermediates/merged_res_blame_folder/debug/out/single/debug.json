@@ -1,0 +1,614 @@
+[
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_edit.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable-v24\\edit.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_code_gray.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_code_gray.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_product.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_add_product.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shap_rect_3.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shap_rect_3.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_chart.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable-v24\\chart.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_address.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_address.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_product_seller.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\row_product_seller.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_white.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_add_white.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_quantity.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\dialog_quantity.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_product_details_seller.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\row_product_details_seller.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_gray.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_gray.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_poweroff.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_poweroff.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_gray.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_person_gray.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_test.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_send.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rect02.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_rect02.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_order_item.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\row_order_item.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rect_tab_between_un.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_rect_tab_between_un.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rect05_right.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_rect05_right.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_money_15.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_money_15.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_seller.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_register_seller.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile_edit_seller.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_profile_edit_seller.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_addseller.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_addseller.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rect_cart.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_rect_cart.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_bottom_seller.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\menu\\menu_bottom_seller.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_circle_small_green.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_circle_small_green.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_remove.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_remove.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_list.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_list.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chart_seller.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_chart_seller.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_product.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_edit_product.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_login.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_login.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_map_black.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_map_black.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rect_tab_left.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_rect_tab_left.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_item.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_item.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable-v24\\icon.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_manager.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable-v24\\manager.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rect01.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_rect01.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_map.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable-v24\\map.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mail.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_mail.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_top_bar.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_top_bar.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_money.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_money.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cart_white.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_cart_white.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_title.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_title.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_promotioncode_admin.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\row_promotioncode_admin.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_bottom_nav.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\menu\\menu_bottom_nav.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rect_tab_right.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_rect_tab_right.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_admin.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_register_admin.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_promotion_code.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_promotion_code.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_white.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_home_white.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_order_admin.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\row_order_admin.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_item.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\border_item.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_product.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\row_product.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call_blue.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_call_blue.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rect05_left_un.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_rect05_left_un.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit_black.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_edit_black.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_seller_details.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_seller_details.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_profile_customer.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_edit_profile_customer.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_test.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sale.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable-v24\\sale.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_call.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable-v24\\call.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_details_admin.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_order_details_admin.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_yellow.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_person_yellow.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_bs_product_details_seller.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\bs_product_details_seller.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_city.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_city.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_call.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_order_seller.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\row_order_seller.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cart_black.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_cart_black.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_border_row.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_border_row.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_percentage.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable-v24\\percentage.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_promo_codes.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_add_promo_codes.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_bar_chart_24.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_baseline_bar_chart_24.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete_black.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_delete_black.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgot.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_forgot.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_filter.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable-v24\\filter.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_login.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\button_login.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cart.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_cart.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rect_tab_right_un.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_rect_tab_right_un.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_map_white.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_map_white.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_description.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_description.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rect05_left.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_rect05_left.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_bs_product_details.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\bs_product_details.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_blue.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_person_blue.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call_black.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_call_black.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_forgot.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_forgot.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_cart_item.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\row_cart_item.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_customer.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\row_customer.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rect_tab_between.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_rect_tab_between.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_plus.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_blue.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\border_blue.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_cart.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\dialog_cart.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_down.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_down.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_product_customer.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\row_product_customer.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_customer.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rect04.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_rect04.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rect06_un.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_rect06_un.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chart_seller_month.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_chart_seller_month.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile_edit_admin.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_profile_edit_admin.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_code_blue.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_code_blue.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_border_colunm.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_border_colunm.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rect_left_un.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_rect_left_un.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call_15.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_call_15.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_details_seller.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_order_details_seller.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_delete.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable-v24\\delete.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable-v24\\background.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_edit_text.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_edit_text.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_key.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable-v24\\key.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_map_blue.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_map_blue.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_border_sale.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_border_sale.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pass_gray.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_pass_gray.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_white.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_person_white.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rect05_right_un.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_rect05_right_un.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_offer.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable-v24\\offer.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_seller.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_main_seller.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_white.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_more_white.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_background_list.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_background_list.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_admin.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_main_admin.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_next.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_next.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add1.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_add1.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_country.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_country.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_customer.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_add_customer.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_full.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\border_full.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_seller_admin.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\row_seller_admin.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_tab_product_order.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_tab_product_order.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rect06.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\shape_rect06.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mail.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable-v24\\mail.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_gps.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_gps.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_power_black.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_power_black.xml"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\DAK19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_calendarr_blue.xml.flat",
+        "source": "E:\\DAK19\\app\\src\\main\\res\\drawable\\ic_calendarr_blue.xml"
+    }
+]
