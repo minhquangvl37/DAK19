@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="3dp"
+    app:cardCornerRadius="5dp"
+    android:layout_marginTop="3dp"
+    app:cardBackgroundColor="@color/primary"
+    android:layout_marginBottom="4dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:layout_marginStart="5dp"
+        android:padding="5dp">
+        <ImageView
+            android:id="@+id/iconIv"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="5dp"
+            android:background="@drawable/sale"/>
+
+        <!--code-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/maggTv"
+            android:layout_toEndOf="@+id/iconIv"
+            android:text="Mã giảm giá: "
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/promoCodeTv"
+            android:layout_toEndOf="@+id/maggTv"
+            android:text="SL200K"
+            android:textStyle="bold"
+            android:textColor="@color/primary"/>
+
+        <!--des-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/des"
+            android:layout_toEndOf="@+id/iconIv"
+            android:text="Mô tả: "
+            android:layout_below="@+id/maggTv"
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/descriptionTv"
+            android:layout_toEndOf="@+id/des"
+            android:layout_below="@+id/promoCodeTv"
+            android:text="Mã giảm 200k cho đơn từ 500k"
+            android:textStyle="bold"/>
+
+        <!--giá giảm-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/price"
+            android:layout_toEndOf="@+id/iconIv"
+            android:text="Giá giảm: "
+            android:layout_below="@+id/des"
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/promoPriceTv"
+            android:layout_toEndOf="@+id/price"
+            android:layout_below="@+id/des"
+            android:text="200000"
+            android:textColor="@color/cam"
+            android:textStyle="bold"/>
+
+        <!--áp dụng cho đơn giảm-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/apdung"
+            android:layout_toEndOf="@+id/iconIv"
+            android:text="Áp dụng đơn từ: "
+            android:layout_below="@+id/promoPriceTv"
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/minumumPriceTv"
+            android:layout_toEndOf="@+id/apdung"
+            android:layout_below="@+id/promoPriceTv"
+            android:text="500000"
+            android:textStyle="bold"/>
+
+        <!--ngày hết hạn-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/date"
+            android:layout_toEndOf="@+id/iconIv"
+            android:text="Ngày hết hạn: "
+            android:layout_below="@+id/minumumPriceTv"
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/expireDateTv"
+            android:layout_toEndOf="@+id/date"
+            android:layout_below="@+id/minumumPriceTv"
+            android:text="16/06/2022"
+            android:textColor="@color/primary"
+            android:textStyle="bold"/>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

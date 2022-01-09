@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardElevation="8dp"
+    android:layout_marginTop="5dp"
+    app:cardCornerRadius="25dp"
+    android:layout_rowWeight="1"
+    android:layout_columnWeight="1"
+    android:padding="5dp"
+    app:cardMaxElevation="6dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    app:contentPadding="5dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        >
+        <TextView
+            android:id="@+id/orderIdTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Order: 12cxx"
+            android:textColor="@color/black"
+            android:padding="5dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/dateTv"
+            android:layout_toStartOf="@id/nextIv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="20/05/2021"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/infoOrder"
+            android:layout_below="@+id/orderIdTv"
+            android:orientation="horizontal">
+
+            <com.blogspot.atifsoftwares.circularimageview.CircularImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:background="@drawable/ic_person_gray"
+                app:c_border="true"
+                app:c_border_color="@color/primary"
+                app:c_border_width="1dp"
+                android:id="@+id/profileIv"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/CTNamtTv"
+                    android:layout_below="@id/orderIdTv"
+                    android:layout_width="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="17dp"
+                    android:layout_height="20dp"
+                    android:textColor="@color/black"
+                    android:text="HMQ shop"/>
+                <TextView
+                    android:id="@+id/amountTv"
+                    android:layout_below="@id/CTNamtTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="@color/cam"
+                    android:textSize="17dp"
+                    android:text="Tổng giá: 223000"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/statusTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/nextIv"
+            android:layout_marginTop="55dp"
+            android:layout_toStartOf="@id/nextIv"
+            android:text="In Progress"
+            android:textColor="@color/green"/>
+
+        <ImageView
+            android:id="@+id/nextIv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_next"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"/>
+
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

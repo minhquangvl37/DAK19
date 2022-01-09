@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_edit"
+        android:icon="@drawable/ic_edit_black"
+        android:title="@string/action_edit"/>
+    <item android:id="@+id/action_addCustomer"
+        android:icon="@drawable/ic_person_gray"
+        android:title="Thêm Khách Hàng"/>
+    <item android:id="@+id/action_logout"
+        android:icon="@drawable/ic_power_black"
+        android:title="@string/action_logout"/>
+</menu>

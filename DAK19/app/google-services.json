@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "136552478170",
+    "project_id": "dak19-2e977",
+    "storage_bucket": "dak19-2e977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136552478170:android:5997431667b177db3bfce3",
+        "android_client_info": {
+          "package_name": "org.o7planning.dak19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136552478170-iup5u6b9lv9jrkoe6kdhl2lpqku8kst5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.o7planning.dak19",
+            "certificate_hash": "1e3173b5723ba69514ab16bb26fac56117900b49"
+          }
+        },
+        {
+          "client_id": "136552478170-205kb1hl04dfc60md1hll4140ibleg5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV0jfzWEbX22wLawOHfaYjwX3Eb844KX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136552478170-205kb1hl04dfc60md1hll4140ibleg5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

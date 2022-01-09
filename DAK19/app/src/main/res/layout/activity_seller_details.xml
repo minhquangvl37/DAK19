@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.SellerDetailsActivity">
+
+    <!--toobar-->
+    <RelativeLayout
+        android:id="@+id/toolbarRl"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/shape_rect01"
+        android:padding="10dp">
+        <ImageButton
+            android:id="@+id/backBtn"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_back"
+            android:background="@null"/>
+        <TextView
+            android:id="@+id/masellerTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="Thông tin nhân viên"
+            android:textColor="@color/white"
+            android:textSize="20dp"/>
+
+        <ImageButton
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/delete"
+            android:id="@+id/deleteBtn"/>
+
+    </RelativeLayout>
+    <!--seller details-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        android:id="@+id/info">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/shape_top_bar"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/nameTv"
+                style="@style/TextAppearance.AppCompat.Title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="Seller name"
+                android:textColor="@color/black" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/nameTv"
+                android:id="@+id/phone"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:text="Số điện thoại"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"/>
+                <ImageView
+                    android:layout_width="1dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/shape_border_colunm"/>
+                <TextView
+                    android:id="@+id/phoneTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:text="Phone"
+                    android:textColor="@color/black"
+                    android:layout_marginStart="5dp"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/phone"
+                android:id="@+id/address"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:text="Địa chỉ"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"/>
+                <ImageView
+                    android:layout_width="1dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/shape_border_colunm"/>
+                <TextView
+                    android:id="@+id/addressTv"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:text="Address"
+                    android:textColor="@color/black"
+                    android:layout_marginStart="5dp"/>
+            </LinearLayout>
+
+            <com.blogspot.atifsoftwares.circularimageview.CircularImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:id="@+id/profileIv"
+                app:c_border="true"
+                android:layout_marginEnd="20dp"
+                android:layout_marginTop="20dp"
+                app:c_border_color="@color/black"
+                android:layout_alignParentEnd="true"
+                android:src="@drawable/ic_person_gray"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:gravity="center_horizontal"
+                android:layout_below="@+id/profileIv"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/callBtn"
+                    android:layout_width="30dp"
+                    android:layout_height="33dp"
+                    android:layout_marginRight="25dp"
+                    android:background="@drawable/call" />
+
+                <ImageButton
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:id="@+id/chartBtn"
+                    android:layout_marginLeft="25dp"
+                    android:background="@drawable/chart"/>
+            </LinearLayout>
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <!--orders-->
+    <RelativeLayout
+        android:id="@+id/ordersRl"
+        android:layout_below="@+id/info"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!--search view-->
+        <EditText
+            android:id="@+id/searchOrderEt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/shape_rect02"
+            android:drawableStart="@drawable/ic_baseline_search_24"
+            android:padding="10dp"
+            android:enabled="false"
+            android:layout_toStartOf="@+id/filterOrderBtn"
+            android:hint="Search"/>
+
+        <!--filter-->
+        <ImageButton
+            android:id="@+id/filterOrderBtn"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="12dp"
+            android:layout_marginEnd="5dp"
+            android:src="@drawable/filter"
+            android:background="@color/white"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:id="@+id/filteredOrdersTv"
+            android:layout_below="@+id/searchOrderEt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Tất cả đơn hàng"
+            android:layout_marginStart="5dp"
+            android:layout_marginBottom="5dp"/>
+
+        <!--show orders-->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/ordersRv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/filteredOrdersTv"
+            app:stackFromEnd="true"
+            app:reverseLayout="true"
+            android:background="@drawable/shape_background_list"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            tools:listitem="@layout/row_order_admin"/>
+    </RelativeLayout>
+</RelativeLayout>
